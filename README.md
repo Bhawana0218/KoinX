@@ -92,7 +92,7 @@ Built with modern React, TypeScript, and TailwindCSS with a focus on performance
 
 ## 🚀 Live Demo
 
-**[🔗 Click here to view the live application]((https://koin-x-snowy.vercel.app/))**
+**[🔗 Click here to view the live application](https://koin-x-snowy.vercel.app/)**
 
 ---
 
