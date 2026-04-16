@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💰 Tax Loss Harvesting Tool
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
@@ -5,7 +7,15 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF?logo=vite)](https://vitejs.dev/)
 
-A sophisticated, production-ready **Tax Loss Harvesting** web application that helps cryptocurrency investors optimize their tax liabilities through strategic loss harvesting. Built with modern React, TypeScript, and TailwindCSS with a focus on performance, accessibility, and user experience.
+<p>
+A sophisticated, production-ready <strong>Tax Loss Harvesting</strong> web application that helps cryptocurrency investors optimize their tax liabilities through strategic loss harvesting.
+</p>
+
+<p>
+Built with modern React, TypeScript, and TailwindCSS with a focus on performance, accessibility, and user experience.
+</p>
+
+</div>
 
 ---
 
@@ -310,4 +320,3 @@ For support:
 If you found this project helpful, please give it a ⭐ on GitHub!
 Made with ❤️ using React, TypeScript, and Tailwind CSS
 </div>
-```
