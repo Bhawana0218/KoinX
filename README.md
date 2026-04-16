@@ -55,6 +55,7 @@ Built with modern React, TypeScript, and TailwindCSS with a focus on performance
 
   <p><em>Fully responsive design optimized for mobile devices</em></p>
 </div>
+</div>
 
 ---
 
