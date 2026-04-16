@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💰 Tax Loss Harvesting Tool
 
@@ -23,31 +23,36 @@ Built with modern React, TypeScript, and TailwindCSS with a focus on performance
 
 ### Desktop View - Dark Mode
 <div align="center">
-  <img src="./screenshots/desktop-dark-mode.png" alt="Desktop Dark Mode" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin: 20px 0;" />
+  <img width="1801" height="908" alt="Screenshot 2026-04-16 215856" src="https://github.com/user-attachments/assets/5cac0830-1d8b-4a98-9cca-76f1ca194bdd" />
+<div align="center">
+
   <p><em>Dark mode interface with comprehensive tax optimization dashboard</em></p>
 </div>
 
 ### Desktop View - Light Mode
 <div align="center">
-  <img src="./screenshots/desktop-light-mode.png" alt="Desktop Light Mode" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 20px 0;" />
+ <img width="1817" height="904" alt="Screenshot 2026-04-16 215916" src="https://github.com/user-attachments/assets/82adcc97-fa08-48c0-94a5-e8a043026309" />
   <p><em>Clean light mode interface for comfortable viewing</em></p>
 </div>
 
 ### Holdings Table with Selection
 <div align="center">
-  <img src="./screenshots/holdings-table.png" alt="Holdings Table" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin: 20px 0;" />
+  <img width="1847" height="731" alt="Screenshot 2026-04-16 215935" src="https://github.com/user-attachments/assets/6bf4c97f-4910-4102-b335-96d2a59337e3" />
+
   <p><em>Interactive holdings table with real-time tax calculations</em></p>
 </div>
 
 ### Tax Optimization Results
 <div align="center">
-  <img src="./screenshots/tax-savings.png" alt="Tax Savings Calculation" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin: 20px 0;" />
+  <img width="1862" height="821" alt="Screenshot 2026-04-16 215955" src="https://github.com/user-attachments/assets/f7853f32-4021-432f-b8f0-554c912676fd" />
+
   <p><em>Real-time tax savings calculation with visual feedback</em></p>
 </div>
 
 ### Mobile Responsive View
 <div align="center">
-  <img src="./screenshots/mobile-view.png" alt="Mobile Responsive" width="40%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin: 20px 0;" />
+  <img width="458" height="805" alt="Screenshot 2026-04-16 220032" src="https://github.com/user-attachments/assets/27b81417-3250-4383-b5ef-9f1db32dbcc6" />
+
   <p><em>Fully responsive design optimized for mobile devices</em></p>
 </div>
 
